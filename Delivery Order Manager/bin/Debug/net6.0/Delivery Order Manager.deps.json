@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Delivery Order Manager/1.0.0": {
+        "runtime": {
+          "Delivery Order Manager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delivery Order Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

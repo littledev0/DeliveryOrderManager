@@ -1,0 +1,15 @@
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\bin\Debug\net6.0\Delivery Order Manager.exe
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\bin\Debug\net6.0\Delivery Order Manager.deps.json
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\bin\Debug\net6.0\Delivery Order Manager.runtimeconfig.json
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\bin\Debug\net6.0\Delivery Order Manager.dll
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\bin\Debug\net6.0\Delivery Order Manager.pdb
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\obj\Debug\net6.0\Delivery Order Manager.csproj.AssemblyReference.cache
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\obj\Debug\net6.0\Delivery Order Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\obj\Debug\net6.0\Delivery Order Manager.AssemblyInfoInputs.cache
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\obj\Debug\net6.0\Delivery Order Manager.AssemblyInfo.cs
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\obj\Debug\net6.0\Delivery Order Manager.csproj.CoreCompileInputs.cache
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\obj\Debug\net6.0\Delivery Order Manager.dll
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\obj\Debug\net6.0\refint\Delivery Order Manager.dll
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\obj\Debug\net6.0\Delivery Order Manager.pdb
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\obj\Debug\net6.0\Delivery Order Manager.genruntimeconfig.cache
+C:\VS\C#\Learning C#\Delivery Order Manager\Delivery Order Manager\obj\Debug\net6.0\ref\Delivery Order Manager.dll
